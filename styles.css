@@ -1,0 +1,39 @@
+.top-bg {
+  background-image: url("./images/Headerbg@2x.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.rounded-bottom-start {
+  border-bottom-left-radius: 10%;
+}
+
+.rounded-top {
+  border-top-right-radius: 10px;
+}
+
+.cading {
+  margin-top: 30%;
+}
+
+.bg-col {
+  background-color: #ebebff;
+}
+
+.mr {
+  margin-left: 200% !important;
+  transform: rotate(90deg);
+}
+
+.mrr {
+  margin-left: 195% !important;
+}
+
+.mrrr {
+  margin-left: 230% !important;
+}
+
+.img-red {
+  width: 10px;
+  height: 15px;
+}
